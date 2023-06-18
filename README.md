@@ -1,6 +1,7 @@
 # EnglishWordManager
  
-Search naver dictionary faster and record the meaning of the English word.
+## How to search naver dictionary faster and record the meaning of the English word
+
 ![Inked1](https://github.com/cjsj166/EnglishWordManager/assets/94033188/7746d304-e754-4dfc-8b48-d07a879952a7)
 
 1. Write a word you want to search.
@@ -28,3 +29,17 @@ Search naver dictionary faster and record the meaning of the English word.
 
 9. Click words.txt in main folder.
 10. You can see that the searched meaning and the example sentence are recorded in .txt file.
+
+## How to export as an Anki deck
+
+![7](https://github.com/cjsj166/EnglishWordManager/assets/94033188/55800aba-0ae3-4423-a902-77a0a924160d)
+
+1. Execute AnkiDeckCreator.py. You can see the words you recorded are shown on console.
+
+![8](https://github.com/cjsj166/EnglishWordManager/assets/94033188/53aae0c0-c2de-48a7-aea6-b7a7b987e3be)
+
+2. Exported anki deck is saved in main/anki_decks.
+
+![9](https://github.com/cjsj166/EnglishWordManager/assets/94033188/27a8e9d0-d592-4b79-950d-1d7c139965a7)
+
+3. If you double click it, you can import it to your anki deck. The deck name is fixed as 'TOEFL'.
