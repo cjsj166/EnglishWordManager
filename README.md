@@ -5,7 +5,7 @@
 
 ![Inked1](https://github.com/cjsj166/EnglishWordManager/assets/94033188/7746d304-e754-4dfc-8b48-d07a879952a7)
 
-1. Write a word you want to search.
+1. Write a word you want to search. * You can just copy the word or capture it. Then the program will get the word from clipboard.
 2. Click 'Get meanings' button or press enter.
 
 ![Inked2](https://github.com/cjsj166/EnglishWordManager/assets/94033188/d115d298-af95-4446-a284-053f819cf6e9)
