@@ -1,6 +1,7 @@
 # EnglishWordManager
+ Let you search naver dictionary faster and record the meaning of the English word. And also lets you export it as an anki deck.
  
-## How to search naver dictionary faster and record the meaning of the English word
+## How to use dictonary search
 
 ![Inked1](https://github.com/cjsj166/EnglishWordManager/assets/94033188/7746d304-e754-4dfc-8b48-d07a879952a7)
 
